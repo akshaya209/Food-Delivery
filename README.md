@@ -1,4 +1,4 @@
-<img width="578" height="568" alt="image" src="https://github.com/user-attachments/assets/97f84a30-543f-4740-a8a2-16bde4f65226" /># Food-Delivery
+## Food-Delivery
 This project is a scalable food delivery backend system built using Spring Boot. It simulates a real-world food ordering platform where users can browse restaurants, place orders, and track deliveries, while restaurants and admins manage menus and operations.
 
 --
