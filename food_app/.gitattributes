@@ -1,0 +1,6 @@
+# Treat all HTML files as documentation so they are excluded from language statistics
+*.html linguist-documentation
+
+# Treat any CSS or JavaScript assets as vendored/third-party code
+*.css linguist-vendored
+*.js linguist-vendored
